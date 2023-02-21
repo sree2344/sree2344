@@ -4,7 +4,7 @@
 
 📧 sri1000.cbe@gmail.com | 📱 9086361516 | 📍 Flemington, NJ 08822
 
-[LinkedIn](https://www.linkedin.com/in/sri-vishnu-jayakumar/) | [GitHub](https://github.com/srivi1000)
+[LinkedIn](https://www.linkedin.com/in/sri-vishnu-jayakumar-340788208/) | [GitHub](https://github.com/sree2344)
 
 ---
 
