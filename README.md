@@ -24,7 +24,6 @@ As a recent Computer Science graduate and aspiring software developer, I am driv
   Rutgers University - New Brunswick, NJ\
   Sep 2020 - Jan 2022\
   Honors: Dean’s List\
-  Cumulative GPA: 3.59/4.0
 
 ---
 
