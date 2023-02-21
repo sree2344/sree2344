@@ -23,7 +23,7 @@ As a recent Computer Science graduate and aspiring software developer, I am driv
 - **Bachelor of Science: Computer Science**\
   Rutgers University - New Brunswick, NJ\
   Sep 2020 - Jan 2022\
-  Honors: Dean’s List\
+  Honors: Dean’s List
 
 ---
 
