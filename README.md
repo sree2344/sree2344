@@ -24,6 +24,7 @@ As a recent Computer Science graduate and aspiring software developer, I am driv
   Rutgers University - New Brunswick, NJ\
   Sep 2020 - Jan 2022\
   Honors: Dean’s List
+---
 
 ## Experience
 
@@ -84,6 +85,7 @@ As a recent Computer Science graduate and aspiring software developer, I am driv
     - Utilized strong communication skills to build and maintain customer relationships.
     - Developed a user-friendly website for the company, improving the customer experience by providing easy access to location and ordering information.
 ---
+
 ## Skills
 
 ### Programming Languages
