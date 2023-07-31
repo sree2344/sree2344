@@ -18,7 +18,7 @@ As a recent Computer Science graduate and aspiring software developer, I am driv
 
 - **Master of Science: Computer Science**\
   Georgia Institute of Technology\
-  Jan 2022 - Dec 2023
+  Jan 2022 - Jun 2024
 
 - **Bachelor of Science: Computer Science**\
   Rutgers University - New Brunswick, NJ\
