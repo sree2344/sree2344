@@ -77,13 +77,6 @@ As a recent Computer Science graduate and aspiring software developer, I am driv
     - Managed outreach with Web3 channels, gaming/fitness influencers, and investors.
     - Identified opportunities for Pre-Seed Round success based on investor and advisor suggestions.
 
-- **Sales Specialist - Mobile Devices**
-  - MobileSpot
-  - Jun 2017-Sep 2017
-  - Coimbatore, India
-    - Demonstrated in-depth knowledge of product specifications and features to successfully sell smartphones to customers.
-    - Utilized strong communication skills to build and maintain customer relationships.
-    - Developed a user-friendly website for the company, improving the customer experience by providing easy access to location and ordering information.
 ---
 
 ## Skills
