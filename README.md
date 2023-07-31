@@ -26,8 +26,19 @@ As a recent Computer Science graduate and aspiring software developer, I am driv
   Honors: Dean’s List
 
 ---
-
 ## Experience
+
+- **Front-End Development Intern**\
+  Moontide Agency\
+  July 2023-Present\
+  El Segundo, CA\
+  Led the design and development of custom web pages using HTML5, CSS3, JavaScript, and PHP in WordPress, optimizing site efficiency with Bootstrap and enhancing UX with modern design elements. Managed seamless content migrations for high-profile clients, and contributed to dynamic web experiences with custom plugin development using Advanced Custom Fields and JavaScript. Utilized Git and GitHub for version control, managed project workflows with Wrike, and created compelling design mock-ups with Figma, facilitating efficient team collaboration and project delivery. Presented technical concepts and progress to senior developers, and used MS Excel for data analysis, showcasing strong communication skills and data-driven decision-making. Stayed abreast of tech trends, driving innovation in project development and contributing to the digital presence management of assigned clients.
+
+- **Software Engineer Intern**\
+  WelSpot Inc\
+  May 2023-July 2023\
+  Miami Beach, FL\
+  Developed and implemented AI/ML algorithms for WelSpot's loan decision engine, resulting in higher approval rates and lower loss rates. Collaborated with the CTO and CIO to design a new tech stack for migrating outsourced developer code to in-house, reducing reliance on external decision engines and improving development processes. Implemented coding best practices to improve the scalability of the loan decision engine using Python, Flask, and Pandas to efficiently read and write to JSON files. Conducted unit testing on the code to ensure reliability and efficiency. Maintained the codebase on GitHub, ensuring version control and collaboration with the team. Assisted in the research of different NLP engines to improve the user experience of the WelSpot Community, contributing to a more inclusive and user-friendly financing experience for health-conscious consumers.
 
 - **Agile Methodology/Scrum Program**\
   Cognizant\
@@ -52,7 +63,6 @@ As a recent Computer Science graduate and aspiring software developer, I am driv
   Jun 2017-Sep 2017\
   Coimbatore, India\
   Demonstrated in-depth knowledge of product specifications and features to successfully sell smartphones to customers. Utilized strong communication skills to build and maintain customer relationships, resulting in positive customer feedback and repeat business. Developed a user-friendly website for the company, improving the customer experience by providing easy access to location and ordering information.
-
 ---
 
 ## Skills
